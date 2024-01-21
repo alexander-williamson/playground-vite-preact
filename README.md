@@ -27,7 +27,7 @@ And if you want to serve it to test it locally:
 ```
 npm install
 npm run build
-npx http-server ./dist
+npx http-server ./app/dist
 ```
 
 Running locally:
