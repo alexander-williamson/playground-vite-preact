@@ -1,0 +1,5 @@
+# build artifacts
+dist
+
+# typescript
+node_modules
