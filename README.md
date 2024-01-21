@@ -2,6 +2,12 @@
 
 A compact demo of Preact (React but faster) + Vite (a static-site generator) framework.
 
+Vite is hyper focussed at quickly building static sites. It supports a wide range of frameworks incluing React, Svelte, Vue, Preact etc.
+
+Why use vite:
+
+- https://vitejs.dev/guide/why.html
+
 ## Localy development
 
 ```
@@ -26,4 +32,4 @@ npx http-server ./dist
 
 Running locally:
 
-![Vite + Preact Screenshot](vite_preact_screenshot.png "Vite + Preact Screenshot")
+![Vite + Preact Screenshot](docs/vite_preact_screenshot.png "Vite + Preact Screenshot")
